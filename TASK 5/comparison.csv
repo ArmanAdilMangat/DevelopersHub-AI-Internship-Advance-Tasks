@@ -1,0 +1,4 @@
+Model,Top-1 Accuracy,Macro F1,Top-3 Accuracy,N (test)
+Zero-Shot (BART-MNLI),0.4727,0.4479,0.8727,550
+"Few-Shot (SetFit, 8/class)",0.9818,0.9817,0.9964,550
+Fine-Tuned (DistilBERT),0.9982,0.9982,1.0,550
