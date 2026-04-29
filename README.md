@@ -297,4 +297,4 @@ Arman Adil Mangat
 BS Artificial Intelligence — UMT Lahore
 AI/ML Engineering Intern @ DevelopersHub Corporation
 
-> *"Every model starts with a config.py."*
+> *"NEVER GIVE UP <=> JUST GIVE UR BEST."*
