@@ -1,6 +1,6 @@
 # 🤖 AI/ML Engineering Internship — DevelopersHub Corporation
 
-> **Intern:** Adil | BS Artificial Intelligence, University of Management and Technology (UMT), Lahore
+> **Intern:** Arman Adil Mangat | BS Artificial Intelligence, University of Management and Technology (UMT), Lahore
 > **Organization:** DevelopersHub Corporation — Advanced AI/ML Engineering Track
 > **Stack:** Python 3.10 · PyTorch · HuggingFace Transformers · Scikit-learn · Streamlit · NVIDIA RTX 4060
 
@@ -293,7 +293,7 @@ DevelopersHub-Internship/
 
 ## 📬 Contact
 
-**Adil**
+Arman Adil Mangat 
 BS Artificial Intelligence — UMT Lahore
 AI/ML Engineering Intern @ DevelopersHub Corporation
 
